@@ -1,7 +1,4 @@
-sehoffma-23.github.io/
-│── index.md
-│── _config.yml
-│── README.md
+
 theme: jekyll-theme-cayman
 title: "My Portfolio"
 description: "Welcome to my site!"
