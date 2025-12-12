@@ -1,4 +1,4 @@
-#  Hi, Sydney Hoffman
+#  Hi, I'm Sydney Hoffman
 
 Welcome to my personal portfolio!
 I’m a First Year Data Science Studnet interested in:
