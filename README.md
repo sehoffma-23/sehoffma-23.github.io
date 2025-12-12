@@ -27,7 +27,7 @@ I’m a First Year Data Science Studnet interested in:
 
 ---
 
-## 🧠 Skills
+##  Skills
 - Java
 - SQL
 - Python
@@ -35,7 +35,7 @@ I’m a First Year Data Science Studnet interested in:
 
 ---
 
-## 📫 Contact
+##  Contact
 - **Email:** sehoffma@mtu.edu
 - **GitHub:** https://github.com/sehoffma-23
 
